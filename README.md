@@ -1,2 +1,0 @@
-# upjump
-Upjump Game.
